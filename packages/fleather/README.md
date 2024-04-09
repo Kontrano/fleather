@@ -23,12 +23,13 @@ Soft and gentle rich text editing for Flutter applications based on [Zefyr](http
 **Full documentation can be found [here](https://fleather-editor.github.io/docs/getting-started/quick-start/).**
 
 ## Get started
-Add Fleather to your dependencies.
+Add Fleather and Parchment Delta to your dependencies.
 ```yaml
 dependencies:
   flutter:
     sdk: flutter
   fleather: ^1.14.3
+  parchment_delta: ^1.0.0
 ```
 
 ## Usage
